@@ -1,0 +1,29 @@
+Aplikacja ta to próba zrobienia aplikacji wiki warthundera, ktora by nie wymagała dostępu do internetu aby móc przęglądać czołgi w każdej chwili kiedy dusza zapragnie.
+
+Wstępnie WarThunderBootlegWiki pokazuje nam menu z którego możemy wybrać pomiędzy samą wiki a przejściem do forum( niestety, forum jest nieczynne w tym momencie ze względu na złe zachowanie użytkowników ). Aby móc korzystać z wiki, nie potrzebujemy połączenia z internetem
+co jest przeciwne z tym, jeśli byśmy chcieli skorzystać z forum, które już takiego owego połączenia potrzebuje aby łączyć się z innymi użytkownikami.
+
+Wejście w wiki, pozwala nam potem wybrać typ drzewka które byśmy chcieli przejżeć, ale szanujmy się, wszyscy jesteśmy tutaj aby grać w czołgi wiec tylko one są dostępne.
+
+Potem, mamy wybór jedynej poprawnej nacji do grania w czołgi. Następnie Aplikacja sugeruje aby wybrać pierwszy rank czałgów, wiec najlepiej będzie jak tak zrobimy.
+
+Po wyborze takim jak aplikacja nam bardzo ładnie sugerowała mamy do wyboru kilka fajnych maszyn.
+
+Wybierzmy takiego Pz. III E
+
+Jak widzimy, aplikacja w przystępny i treściwy sposób podaje nam rzetelne dane na temat maszyny w gierce. Zaczynamy od samego przedstawienia opancerzenia oraz możliwości mobilnych bestii, które przechodzą w głowne uzbrojenie
+przy pomocy którego możemy siać spustoszenie w fajnej, przyjaznej grze. Na samymy końcu mamy informacje ogólne które w oficialnym wiki na internecie jest na samym początku co wymaga od nas niepotrzebnego scrollowanie aby
+dostać się do soczysstych informacji takich bestii.
+
+
+
+Cała prace wykonał Mariusz Rychlik
+
+
+Bazadanych jest zbiorem wszystkich informacji o czołgach które sa przedstawione przez wiki aplikacji. Przechowywane są one lokalnie przez co nie potrzebujemy kontaktu z internetem aby non stop pobierac info, tylko raz pobrane
+znami zostaje az do aktualizji. Bazadanych korzysta z Room'a co pozwala na prostą i przystępną w uzyciu operowanie na bazie. Same dane dostarczane są przez plik JSON so pozwala nam na szybkie zmiany informacji naszych ukochanych
+maszyn bojowych, jeśli kiedyś miały by zostać dodane nowe badź stare statystiki zostać zmienione.
+
+Jak nawigować 101:
+
+WarThunderBootlegWiki -> Wiki -> Ground -> germany flag -> rank 1 -> the tank of our choosing

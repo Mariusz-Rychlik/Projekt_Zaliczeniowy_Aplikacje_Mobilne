@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp"
+    android:background="#161617">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        tools:context=".MainActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+    android:background="#161617">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to
+            Thunder App"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="#232324"
+            android:textColor="#dee2e6"
+            android:textSize="40sp"
+            android:layout_marginBottom="20dp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:contentDescription="@string/wiki_redirect"
+        app:srcCompat="@drawable/wiki_tiger"
+        android:layout_marginBottom="20dp"
+        android:onClick="gotoWiki"/>
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:contentDescription="@string/forum_redirect"
+        app:srcCompat="@drawable/funny_forums"
+        android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/attention_for_undisclosed_time_the_forum_is_down_due_to_leaks_of_military_documents_please_for_the_love_of_god_dont_post_them"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="#232324"
+            android:textColor="#f0051c"
+            android:textSize="40sp"
+            />
+
+</LinearLayout>
+</ScrollView>

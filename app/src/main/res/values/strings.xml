@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WarThunderBootlegwiki</string>
+    <string name="wiki_redirect">Wiki redirect</string>
+    <string name="attention_for_undisclosed_time_the_forum_is_down_due_to_leaks_of_military_documents_please_for_the_love_of_god_dont_post_them">Attention! For undisclosed time the forum is down due to leaks of military documents, please for the love of God dont post them.</string>
+    <string name="forum_redirect">Forum redirect</string>
+    <string name="ground_wiki_redirect">Ground Wiki redirect</string>
+    <string name="air_wiki_redirect">Air Wiki redirect</string>
+    <string name="heli_wiki_redirect">Heli Wiki redirect</string>
+    <string name="fleet_wiki_redirect">Fleet Wiki redirect</string>
+    <string name="germany_tree_redirect">Germany_Tree_redirect</string>
+    <string name="germany_rank_1_redirect">Germany Rank 1 redirect</string>
+    <string name="general_information">General Information:</string>
+    <string name="pz_iii_e">Pz. III E</string>
+    <string name="pz_35_t">Pz.35(t)</string>
+    <string name="pz_35_t_redirect">Pz.35(t) Redirect</string>
+    <string name="pz_iii_e_redirect">Pz. III E Redirect</string>
+    <string name="pz_iii_b">Pz. III B</string>
+    <string name="pz_iii_b_redirect">Pz. III B Redirect</string>
+    <string name="pz_38_t_a_redirect">Pz.38(t) A Redirect</string>
+    <string name="pz_38_t_a">Pz.38(t) A</string>
+    <string name="pz_iii_f_redirect">Pz. III F Redirect</string>
+    <string name="pz_iii_f">Pz.III F</string>
+</resources>
